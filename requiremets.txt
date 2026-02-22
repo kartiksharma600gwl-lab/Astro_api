@@ -1,0 +1,8 @@
+swisseph
+datetime
+pytz
+geopy
+fastapi
+pydantic
+nest_asyncio
+uvicorn
