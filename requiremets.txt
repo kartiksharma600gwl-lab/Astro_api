@@ -1,8 +1,9 @@
-swisseph
+pyswisseph==2.10.3.2
 datetime
 pytz
 geopy
 fastapi
 pydantic
 nest_asyncio
+
 uvicorn
